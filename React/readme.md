@@ -30,3 +30,7 @@ Git remote add origin http…..
 Git push -u origin main 
 Npm init -y to create a package.json file
 </code>
+
+`yarn add bootstrap@4.0.0`
+`yarn add reactstrap@5.0.0`
+`yarn add react-popper@0.9.2`
